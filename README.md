@@ -53,8 +53,7 @@ FLAPPYBIRD/
 - Avoid colliding with the pipes.
 - Try to score as high as possible!
 
-## Screenshots
-(Include game screenshots here)
+
 
 ## Contributing
 Feel free to submit pull requests for improvements, bug fixes, or new features!
